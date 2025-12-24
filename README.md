@@ -110,7 +110,7 @@ The focus is on **clean UI**, **responsive layouts**, and **real-world website s
 ## ▶️ How to Run the Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/MuhammadIkrash/Netflix-Landing-Page-Clone-Responsive-UI.git)
 Open the project folder
 
 Open index.html in your browser
